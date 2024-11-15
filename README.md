@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbmarkoff
-- 👀 I’m interested in Python.
+- 👀 I’m interested in C# and Python.
 - 🌱 I’m currently learning data analytics.
 - 💞️ I’m not yet looking to collaborate.
 - 📫 dbmarkoff@gmail.com
